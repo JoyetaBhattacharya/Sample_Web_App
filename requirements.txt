@@ -1,2 +1,2 @@
 streamlit==1.24.1
-scikit-learn-intelex==2021.20221004.121333
+scikit-learn==1.0.2
